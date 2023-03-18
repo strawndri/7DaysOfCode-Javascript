@@ -12,11 +12,15 @@ let categorias = Object.keys(listaDeCompras);
 let itens = [];
 let item;
 let categoria;
-let minhasListaCompras = '';
+let minhasListaCompras;
 
 function atualizarListaItens() {
-  for (var i = 0; i < Object.values(listaDeCompras).length; i++) {
-    itens += Object.values(listaDeCompras)[i].concat(Object.values(listaDeCompras)[i + 1])
+  let lista = Object.values(listaDeCompras)
+  itens = []
+  for (var i = 0; i < lista.length; i++) {
+    if (lista[i].length >= 1) {
+      itens = itens.concat(lista[i])
+    }
   }
 }
 
@@ -35,21 +39,25 @@ while (respostaContinuar != 3) {
       }
     listaDeCompras[categoria].push(item);
     atualizarListaItens()
+    console.log(itens)
     break;
 
     case 2:
-    if (itens.length < 1) {
+    if (itens.length >= 1) {
       alert(mostraLista("\n"));
+      console.log(itens.includes(item))
       while (!itens.includes(item)) {
-        item = prompt("Qual seria o item? ");
+        item = prompt("Qual seria o item?");
       }
+
       for (categoria in listaDeCompras) {
-        if (listaDeCompras[categoria].includes[item]) {
-          listaDeCompras[categoria].remove(item);
-          atualizarListaItens()
+        if (listaDeCompras[categoria].includes(item)) {
+          listaDeCompras[categoria].splice(listaDeCompras[categoria].indexOf(item), 1);
           alert(`${item} removido com sucesso.`);
+          break
         }
       }
+      atualizarListaItens()
     } else {
       alert("Ops, não há nada na lista.");
     }
@@ -60,9 +68,12 @@ while (respostaContinuar != 3) {
     document.write(mostraLista('<li>'));
     break;
   }
+
+  console.log(listaDeCompras)
 }
       
 function mostraLista(i) {
+  minhasListaCompras = 'Itens:'
   for (categoria in listaDeCompras) {
     if (
       listaDeCompras.hasOwnProperty(categoria) &&
@@ -71,10 +82,6 @@ function mostraLista(i) {
       ) {
         minhasListaCompras += `${i}${categoria}: ${listaDeCompras[categoria]}`;
       }
-    }
-
-    if (minhasListaCompras == undefined) {
-      minhasListaCompras = 'Lista vazia!'
     }
 
     return minhasListaCompras
