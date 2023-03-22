@@ -47,7 +47,7 @@ git clone https://github.com/strawndri/7DaysOfCode-Javascript.git
 
 2. Localizar e acessar a pasta "7DaysOfCode-Javascript";
 ```
-cd imersao-dev-6
+cd 7DaysOfCode-Javascript
 ```
 
 ## Feito com carinho por:
