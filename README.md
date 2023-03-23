@@ -12,8 +12,11 @@
 
 ---
 ### Descrição
+Nesta primeira aula, foram dados os primeiros passos em Javascript, abordando como principal assunto a relação entre valores.
 
 ### Conhecimentos adquiridos
+- Uso do `console.log`;
+- Operações de comparação: `==`, `===`, `!=` e `!==`.
 
 ### Materiais complementares
-
+- [Como utilizar operadores de comparação em Javascript](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript)
