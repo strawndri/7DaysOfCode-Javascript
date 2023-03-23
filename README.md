@@ -8,12 +8,13 @@
 
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
-:small_blue_diamond: [Materiais complementares](#materiais-complementares)
-
 ---
 ### Descrição
+Neste segundo dia, construímos um sistema que realiza uma sequência de perguntas ao usuário e, conforme suas respostas, diferentes resultados são expressos.
 
 ### Conhecimentos adquiridos
-
-### Materiais complementares
+- Uso do comando `prompt()`;
+- Uso do comando `alert()`;
+- Condicionais com `if`, `else` e `if else`;
+- Utilização de *template literals (template string).*
 
