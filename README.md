@@ -12,8 +12,11 @@
 
 ---
 ### Descrição
+No terceiro dia nos deparamos com fluxos de decisão! Para conhecer um pouco mais sobre os gostos do usuário sobre tecnologias, foi necessário usar loops e condicionais.
 
 ### Conhecimentos adquiridos
+- Laços de repetição com `while`.
 
 ### Materiais complementares
+- [While](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/while)
 
