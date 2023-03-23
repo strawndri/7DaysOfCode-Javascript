@@ -24,7 +24,7 @@
 
 ---
 ## Sobre o 7 Days Of Code 
-Projeto desenvolvido pela empresa [Alura]() em que são ofertados 7 desafios independentes para quem está começando na programação. Ao longo dos dias, diferentes aspectos da linguagem de programação Javascript foram sendo abordados e aprofundados.
+Projeto desenvolvido pela empresa [Alura](https://www.alura.com.br/) em que são ofertados 7 desafios independentes para quem está começando na programação. Ao longo dos dias, diferentes aspectos da linguagem de programação Javascript foram sendo abordados e aprofundados.
 
 ## Conhecimentos adquiridos
 - Uso do `console.log`;
