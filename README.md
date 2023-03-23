@@ -8,12 +8,12 @@
 
 :small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
 
-:small_blue_diamond: [Materiais complementares](#materiais-complementares)
-
 ---
 ### Descrição
+Ao passo que no dia cinco fomos desafiados a tentar adicionar novos elementos a uma lista, desta vez, no sexto dia, tivemos que removê-los.
 
 ### Conhecimentos adquiridos
-
-### Materiais complementares
+- Uso do método `includes()`;
+- Uso do método `indexOf()`;
+- `shift`, `pop` e `splice` para remover elementos.
 
