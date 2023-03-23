@@ -12,8 +12,12 @@
 
 ---
 ### Descrição
+No desafio proporcionado pelo dia 4 continuamos aprendendo sobre loops. Desta vez, também trabalhamos com randomização de valores.
 
 ### Conhecimentos adquiridos
+- Como usar `Math.random()` para adquirir valores "aleatórios";
+- Como arrendondar valores com `Math.floor()`.
 
 ### Materiais complementares
-
+- [Laços e iterações](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
+- [Math.random()](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
