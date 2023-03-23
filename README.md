@@ -24,19 +24,34 @@
 
 ---
 ## Sobre o 7 Days Of Code 
-
+Projeto desenvolvido pela empresa [Alura]() em que são ofertados 7 desafios independentes para quem está começando na programação. Ao longo dos dias, diferentes aspectos da linguagem de programação Javascript foram sendo abordados e aprofundados.
 
 ## Conhecimentos adquiridos
-
+- Uso do `console.log`;
+- Operações de comparação: `==`, `===`, `!=` e `!==`;
+- Uso do comando `prompt()`;
+- Uso do comando `alert()`;
+- Condicionais com `if`, `else` e `if else`;
+- Utilização de *template literals (template string)*;
+- Laços de repetição com `while`;
+- Como usar `Math.random()` para adquirir valores "aleatórios";
+- Como arrendondar valores com `Math.floor()`;
+- Como criar uma lista com colchetes;
+- Como adicionar novos elementos à lista com o método `push()`;
+- Uso do método `includes()`;
+- Uso do método `indexOf()`;
+- `shift`, `pop` e `splice` para remover elementos;
+- Como criar funcões em Javascript;
+- Como usar a estrutura `switch-case`.
 
 ## Projetos desenvolvidos
-- [Dia 01: Operações Booleanas](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-01)
-- [Dia 02: Variáveis](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-02)
-- [Dia 03: Fluxo de decisão](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-03)
-- [Dia 04: Mais loops e randomização](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-04)
-- [Dia 05: Arrays e coleções](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-05)
-- [Dia 06: Remoção de Arrays](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-06)
-- [Dia 07: Funções em Javascript](https://github.com/strawndri/7DaysOfCode-Javascript/tree/main/dia-07)
+- [Dia 01: Operações Booleanas](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-01)
+- [Dia 02: Variáveis](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-02)
+- [Dia 03: Fluxo de decisão](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-03)
+- [Dia 04: Mais loops e randomização](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-04)
+- [Dia 05: Arrays e coleções](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-05)
+- [Dia 06: Remoção de Arrays](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-06)
+- [Dia 07: Funções em Javascript](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-07)
 
 ## Como acessar
 
