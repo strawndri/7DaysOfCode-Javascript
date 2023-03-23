@@ -12,8 +12,12 @@
 
 ---
 ### Descrição
+No dia 5, trabalhamos com *Array*, um objeto Javascript utilizado para criar listas.
 
 ### Conhecimentos adquiridos
+- Como criar uma lista com colchetes;
+- Como adicionar novos elementos à lista com o método `push()`.
 
 ### Materiais complementares
+- [Array](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
