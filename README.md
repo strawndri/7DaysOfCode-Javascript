@@ -12,8 +12,12 @@
 
 ---
 ### Descrição
+No último dia, o de número 7, trabalhamos com algo muito importante: funções! Elas foram usadas para construir uma calculadora de operações básica: soma, subtração, divisão e multiplicação.
 
 ### Conhecimentos adquiridos
+- Como criar funcões em Javascript;
+- Como usar a estrutura `switch-case`.
 
 ### Materiais complementares
-
+- [Funções](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)
+- [Switch](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch)
