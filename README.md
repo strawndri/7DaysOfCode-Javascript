@@ -1,32 +1,30 @@
+# 🧩 | 7 Days Of Code de Programação
 
-<h1 align="center"> 👩‍💻 7 Days of Code 🤖 </h1>
+![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-f5b5ca.svg)
+![Status](https://img.shields.io/badge/Status-Concluído-abf285.svg)
 
-<p align="center">
-  <img src="https://i.imgur.com/o0Vtkil.png" alt=''/>
-</p>
+## Índice
 
-<p align="center">
-    <img src='https://img.shields.io/badge/License-MIT-f2a2b7?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "LICENSE"; no lado direito, o retângulo é cor-de-rosa e contém o texto "MIT".'>
-    <img src='https://img.shields.io/badge/Status-Finalizado-abf285?style=for-the-badge&logo=appveyor' alt='Badge. Retângulo dividido em duas partes: no lado esquerdo, o retângulo possui a cor cinza, um círculo azul com vazados e o texto "STATUS"; no lado direito, o retângulo é verde e contém o texto "Finalizado".'>
-</p>
+- [Sobre o projeto](#sobre-o-projeto)
+- [Aprendizagens](#aprendizagens)
+- [Como acessar o projeto?](#como-acessar-o-projeto)
+- [Licença](#licença)
 
-### Tópicos 
+## Sobre o projeto
 
-:small_blue_diamond: [Sobre a imersão](#sobre-o-7-days-of-code)
-
-:small_blue_diamond: [Conhecimentos adquiridos](#conhecimentos-adquiridos)
-
-:small_blue_diamond: [Projetos desenvolvidos](#projetos-desenvolvidos)
-
-:small_blue_diamond: [Como acessar](#como-acessar)
-
-:small_blue_diamond: [Tecnologias](#tecnologias)
-
----
-## Sobre o 7 Days Of Code 
 Projeto desenvolvido pela empresa [Alura](https://www.alura.com.br/) em que são ofertados 7 desafios independentes para quem está começando na programação. Ao longo dos dias, diferentes aspectos da linguagem de programação Javascript foram sendo abordados e aprofundados.
 
-## Conhecimentos adquiridos
+**Durante todos esses dias, foram desenvolvidos os seguintes desafios:**
+- [Dia 01: Operações Booleanas](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-01)
+- [Dia 02: Variáveis](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-02)
+- [Dia 03: Fluxo de decisão](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-03)
+- [Dia 04: Mais loops e randomização](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-04)
+- [Dia 05: Arrays e coleções](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-05)
+- [Dia 06: Remoção de Arrays](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-06)
+- [Dia 07: Funções em Javascript](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-07)
+
+## Aprendizagens
+
 - Uso do `console.log`;
 - Operações de comparação: `==`, `===`, `!=` e `!==`;
 - Uso do comando `prompt()`;
@@ -44,28 +42,22 @@ Projeto desenvolvido pela empresa [Alura](https://www.alura.com.br/) em que são
 - Como criar funcões em Javascript;
 - Como usar a estrutura `switch-case`.
 
-## Projetos desenvolvidos
-- [Dia 01: Operações Booleanas](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-01)
-- [Dia 02: Variáveis](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-02)
-- [Dia 03: Fluxo de decisão](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-03)
-- [Dia 04: Mais loops e randomização](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-04)
-- [Dia 05: Arrays e coleções](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-05)
-- [Dia 06: Remoção de Arrays](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-06)
-- [Dia 07: Funções em Javascript](https://github.com/strawndri/7DaysOfCode-Javascript/tree/dia-07)
-
-## Como acessar
+## Como acessar o projeto?
 
 1. Clonar o repositório:
-```
-git clone https://github.com/strawndri/7DaysOfCode-Javascript.git
-```
+  ```
+  git clone https://github.com/strawndri/7DaysOfCode-Javascript.git
+  ```
 
 2. Localizar e acessar a pasta "7DaysOfCode-Javascript";
-```
-cd 7DaysOfCode-Javascript
-```
+  ```
+  cd 7DaysOfCode-Javascript
+  ```
 
-## Feito com carinho por:
+## Licença
 
-| [<img src="https://avatars.githubusercontent.com/u/62841828?v=4" width=115><br><sub>Andrieli Luci Gonçalves</sub>](https://github.com/strawndri) |
-| :---: |
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais informações sobre os termos de licenciamento.
+
+---
+
+✨ Feito com carinho por [Andrieli Gonçalves](https://github.com/strawndri).
